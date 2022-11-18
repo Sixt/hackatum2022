@@ -32,13 +32,14 @@
 example: `https://api.orange.sixt.com/v1/rentaloffers/offers?pickupStation=S_5252&returnStation=S_5252&pickupDate=2022-12-14T14:00:00&returnDate=2022-12-16T14:00:00&vehicleType=car&currency=EUR&isoCountryCode=DE`
 
 
-### Unlock / Lock Car
+### Unlock / Lock / Blink Car
 
-We have a Electric Renault Twingo outside. This car can be unlocked / locked via API 
+We have a Electric Renault Twingo outside. This car can be unlocked / locked / blink via API 
 
 `https://api.orange.sixt.com/v2/apps/hackatum2022/twingo/unlock`
 
 `https://api.orange.sixt.com/v2/apps/hackatum2022/twingo/lock`
 
+`https://api.orange.sixt.com/v2/apps/hackatum2022/twingo/blink`
 
 
