@@ -24,7 +24,7 @@
 
 ### Offers
 
-https://api.orange.sixt.com/v1/rentaloffers/offers?pickupStation=<STATION_ID>&returnStation=<STATION_ID>&pickupDate=<DATE>&returnDate=<DATE>&vehicleType=car&currency=EUR&isoCountryCode=DE
+`https://api.orange.sixt.com/v1/rentaloffers/offers?pickupStation=<STATION_ID>&returnStation=<STATION_ID>&pickupDate=<DATE>&returnDate=<DATE>&vehicleType=car&currency=EUR&isoCountryCode=DE`
 
 `<STATION_ID>` id like `S_5252` from search endpoint
 `<DATE>` e.g. `2022-12-14T14:00:00`
